@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 1,
+        "county": "Pueblo",
+        "net_change10": 1607,
+        "net_change11": 708,
+        "net_change12": 564,
+        "net_change13": 335,
+        "net_change14": 349,
+        "net_change15": 1624,
+        "net_change16": 1791,
+        "net_change17": 1641
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5128549,
+          38.17343183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 2,
+        "county": "El Paso",
+        "net_change10": 17594,
+        "net_change11": 9762,
+        "net_change12": 8236,
+        "net_change13": 9113,
+        "net_change14": 7847,
+        "net_change15": 10661,
+        "net_change16": 14253,
+        "net_change17": 12526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5255656,
+          38.83211792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 3,
+        "county": "Douglass",
+        "net_change10": 6300,
+        "net_change11": 5423,
+        "net_change12": 6076,
+        "net_change13": 7498,
+        "net_change14": 8306,
+        "net_change15": 7234,
+        "net_change16": 6238,
+        "net_change17": 7577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.929553,
+          39.32971384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 4,
+        "county": "Jefferson",
+        "net_change10": 4060,
+        "net_change11": 4692,
+        "net_change12": 5904,
+        "net_change13": 5476,
+        "net_change14": 6710,
+        "net_change15": 5846,
+        "net_change16": 6474,
+        "net_change17": 3774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2505893,
+          39.58647185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 5,
+        "county": "Denver",
+        "net_change10": 17850,
+        "net_change11": 16138,
+        "net_change12": 14442,
+        "net_change13": 14251,
+        "net_change14": 15222,
+        "net_change15": 18347,
+        "net_change16": 13159,
+        "net_change17": 9844
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8772056,
+          39.76107906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 6,
+        "county": "Broomfield",
+        "net_change10": 913,
+        "net_change11": 1231,
+        "net_change12": 1454,
+        "net_change13": 1166,
+        "net_change14": 1641,
+        "net_change15": 3090,
+        "net_change16": 1713,
+        "net_change17": 1832
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0525601,
+          39.95398931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 7,
+        "county": "Arapahoe",
+        "net_change10": 12108,
+        "net_change11": 10305,
+        "net_change12": 10139,
+        "net_change13": 11745,
+        "net_change14": 10546,
+        "net_change15": 11449,
+        "net_change16": 8115,
+        "net_change17": 6103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3380988,
+          39.64973331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 8,
+        "county": "Adams",
+        "net_change10": 8550,
+        "net_change11": 7771,
+        "net_change12": 8418,
+        "net_change13": 9516,
+        "net_change14": 10111,
+        "net_change15": 10334,
+        "net_change16": 7573,
+        "net_change17": 5772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.337958,
+          39.87365337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 9,
+        "county": "Boulder",
+        "net_change10": 2160,
+        "net_change11": 4588,
+        "net_change12": 4510,
+        "net_change13": 4721,
+        "net_change14": 2756,
+        "net_change15": 5463,
+        "net_change16": 3205,
+        "net_change17": 1341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3575315,
+          40.092459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 10,
+        "county": "Weld",
+        "net_change10": 6712,
+        "net_change11": 4346,
+        "net_change12": 5226,
+        "net_change13": 6050,
+        "net_change14": 5780,
+        "net_change15": 8798,
+        "net_change16": 9861,
+        "net_change17": 10390
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3925118,
+          40.55487864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 11,
+        "county": "Larimer",
+        "net_change10": 4074,
+        "net_change11": 4600,
+        "net_change12": 5494,
+        "net_change13": 5338,
+        "net_change14": 7814,
+        "net_change15": 9167,
+        "net_change16": 5691,
+        "net_change17": 5445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4611736,
+          40.66643481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 12,
+        "county": "Gilpin",
+        "net_change10": 151,
+        "net_change11": -44,
+        "net_change12": 2,
+        "net_change13": 100,
+        "net_change14": 216,
+        "net_change15": 555,
+        "net_change16": 114,
+        "net_change17": 108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5225815,
+          39.85756614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 13,
+        "county": "Clear Creek",
+        "net_change10": 84,
+        "net_change11": -81,
+        "net_change12": 3,
+        "net_change13": 3,
+        "net_change14": 102,
+        "net_change15": 123,
+        "net_change16": 128,
+        "net_change17": 213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6443981,
+          39.68914177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 14,
+        "county": "Teller",
+        "net_change10": 391,
+        "net_change11": -102,
+        "net_change12": 76,
+        "net_change13": -88,
+        "net_change14": 80,
+        "net_change15": -54,
+        "net_change16": 663,
+        "net_change17": 606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1618251,
+          38.88218348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 15,
+        "county": "Elbert",
+        "net_change10": 203,
+        "net_change11": 28,
+        "net_change12": 94,
+        "net_change13": 267,
+        "net_change14": 469,
+        "net_change15": 555,
+        "net_change16": 488,
+        "net_change17": 601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1359366,
+          39.2866013
+        ]
+      }
+    }
+  ]
+}

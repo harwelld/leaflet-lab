@@ -1,0 +1,72 @@
+/* Stylesheet - leaflet-lab - Dylan Harwell */
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+}
+
+#map {
+    height: 800px;
+}
+
+#basemaps {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 40000000 !important;
+    padding: 2px;
+}
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+#slider-wrapper {
+    background-color: white;
+    z-index: 40000000 !important;
+}
+
+.skip {
+    max-height: 30px;
+    max-width: 30px;
+}
+
+.slider {
+  -webkit-appearance: none;
+  vertical-align: middle;
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+/*  opacity: 0.7;*/
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: black;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+/*  background: #4CAF50;*/
+  cursor: pointer;
+}
+
+.legend-control-container {
+    box-shadow: 10%;
+    border-radius: 4px;
+    background-color: rgba(255,255,255,0.8);
+    text-align: center;
+}
+
+#temporal-legend {
+    padding-top: 13px;
+}
